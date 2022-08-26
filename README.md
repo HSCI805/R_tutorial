@@ -1,5 +1,8 @@
 # R tutorials
 
+## R Studio
+https://rstudio.com/products/rstudio/download
+
 ## Quick  way
 https://colab.to/r
 
