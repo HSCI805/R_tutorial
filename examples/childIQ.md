@@ -6,6 +6,13 @@ childIQ<-read_dta( 'https://github.com/medewitt/introduction_to_r/blob/master/da
 head(childIQ,3)
 ```
 
+```
+ library(readr)
+# ?readr_example
+df<- read.csv('https://raw.githubusercontent.com/HSCI805/HSCI805.github.io/main/datasets/opensource/boneden.csv')
+head(df,3)
+```
+
 ## Other datasets
 gapminder.csv
 gapminder.sav
